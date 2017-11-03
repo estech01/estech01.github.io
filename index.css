@@ -4,12 +4,15 @@
 
 body { margin: 0 10%; }
 
-h1 { color: darkred; }
+h1 { color: darkgrey; }
+
+h2 { color: lightgrey;
+font-family: cursive;}
 
 ul.nav {
   margin: 0;
   padding: 0;
-  background-color: darkred;
+  background-color: darkgrey;
 }
 
 ul.nav li { display: inline; }
@@ -27,7 +30,7 @@ ul.nav li a:hover {
 }
 
 ul.nav li a.active {
-  color: darkred;
+  color: darkgrey;
   background-color: #FFF;
   font-weight: bold;
 }
@@ -37,10 +40,24 @@ ul.nav li:hover {
   transition: 0s;
 }
 
+ul li.past{
+  font-style: italic;
+}
+ul li.current{
+  font-weight: bold;
+}
+
 img {
+  border: 5px;
+  border-style: double;
+  border-color: darkgrey;
+  margin: 0px 40px;
+  float: left;
+}
+img.ang {
   border: 10px;
-  border-style: solid;
-  border-color: darkred;
+  border-style: double;
+  border-color: darkgrey;
   margin: 0px 40px;
   float: right;
 }
@@ -48,16 +65,25 @@ img {
 table {
   border-width: 0px 0px 5px 0px;
   border-style: solid;
-  border-color: darkred;
+  border-color: darkgrey;
   background: #eee;
   padding: 0px;
   border-spacing: 0px;
-  margin: 10px 30px;
+  margin: 5px 15px;
+}
+table.legend {
+  border-width: 2px 2px 2px 2px;
+  border-style: double;
+  border-color: darkgrey;
+  background: #eee;
+  padding: 0px;
+  border-spacing: 0px;
+  float: right;
 }
 
 th {
   color: white;
-  background-color: darkred;
+  background-color: darkgrey;
 }
 
 th, td {
@@ -65,10 +91,8 @@ th, td {
   padding: 3px 15px;
 }
 
-td.trcell, td.facell, td.uicell {
+td.current {
   font-weight: bold;
 }
 
-td.trcell { color: green;   }
-td.facell { color: red;     }
-td.uicell { color: #ffc107; }
+td.active { color: darkgrey;   }
