@@ -10,7 +10,7 @@ redirect_from:
 
 # Conflict, interrupted.
 
-How can cycles of conflict can be interrupted, and what is the role of social structures in that endeavor? I use experiments, field research, and social network analysis to try to drill down into the causes of conflict and barriers to peace. Questions of particular interest to me are:
+How can cycles of conflict be interrupted, and what is the role of social structures in that endeavor? I use experiments, field research, and social network analysis to try to drill down into the causes of conflict and barriers to peace. Questions of particular interest to me are:
 
 - What are the feasible alternatives to political violence for marginalized groups? 
 - How do communities rebuild trust in the post-conflict period? 
