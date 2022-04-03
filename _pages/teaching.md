@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Sign up for my office hours [here](wejoinin.com/elaynestecher@ucla.edu).
+Sign up for my office hours [here](www.wejoinin.com/elaynestecher@ucla.edu).
 
 ## Current Courses
 
