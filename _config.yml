@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter
+  username               : @ElayneStecher
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elayne Stecher"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at UCLA; MA University of Chicago; BA Tufts University "
+  bio              : "PhD Student at UCLA"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
