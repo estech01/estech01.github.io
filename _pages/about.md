@@ -20,6 +20,15 @@ How can cycles of conflict be interrupted, and what is the role of social struct
 
 I am currently a dual-degree student at UCLA pursuing a MA/PhD in Political Science and a MSc in Statistics. I hold an MA in International Relations from the University of Chicago (2019) and a BA in International Relations and Arabic from Tufts University (2014). I have spent time in Nigeria (2022), Iraq (2014), Jordan (2013, 2012), Nicaragua (2013) and Israel/Palestine (2012). I have also researched a varity of additional contexts, including Mexico, Kashmir, and Mali.
 
+## Affiliations
+
+Research Fellow at the [UCLA Preventing Violence Lab](https://preventingviolencelab.org/)
+
+Graduate Student Member of the [Politics of Order and Development Lab](https://pod.polisci.ucla.edu/)
+
+Student Affiliate at the [California Center for Population Research](https://www.ccpr.ucla.edu/)
+
+
 
 
 
