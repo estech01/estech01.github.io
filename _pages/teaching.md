@@ -9,12 +9,12 @@ Sign up for my office hours [here](https://www.wejoinin.com/elaynestecher@ucla.e
 
 ## Current Courses
 
-Teaching Assistant, UCLA: 
-- PS179: Randomized Trials for Social Change (Spring 2022)
+
 
 ## Previous Courses
 
-Teaching Assistant, UCLA: 
+Teaching Assistant, UCLA:
+- PS179: Randomized Trials for Social Change (Spring 2022)
 - PS129: War and Diplomacy (Fall 2021)
 
 ## Select Feedback
