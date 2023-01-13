@@ -8,7 +8,7 @@ author_profile: true
 ## Current Courses
 
 Teaching Associate, UCLA:
-- PS200B: Regression for Social Justice (Winter 2023)
+- PS200B: Regression Analysis for Social Science (Winter 2023)
 
 ## Previous Courses
 
