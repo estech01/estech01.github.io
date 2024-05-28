@@ -5,7 +5,7 @@ permalink: /currentwork/
 author_profile: true
 ---
 
-I am interested in understanding when and why individuals and groups engage in group violence in the Global South. In particular, I am interested in the social and psychological factors that predict future violence and the effect of persistent exposure to violence on individuals' attitudes, behaviors and beliefs more broadly. 
+I am interested in understanding when and why individuals and groups engage in group violence in the Global South. In particular, I am interested in the social and psychological factors that predict future violence and the effect of persistent exposure to violence on individuals' attitudes, behaviors and beliefs more broadly. Additionally, I am also interested in the role of gender in post-conflict experiences and preferences. 
 
 ## Working Papers
 
