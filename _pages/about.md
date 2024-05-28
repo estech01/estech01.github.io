@@ -10,15 +10,15 @@ redirect_from:
 
 # Conflict, interrupted.
 
-How can cycles of conflict be interrupted, and what is the role of social structures in that endeavor? I use experiments, field research, and statistical analysis to try to drill down into the causes of conflict and barriers to peace in the Global South. Questions of particular interest to me are:
+How do psychological and social factors contribute to cycles of political violence? I use experiments, field research, and statistical analysis to try to drill down into the causes of conflict and barriers to peace in the Global South. Questions of particular interest to me are:
 
-- What predicts the recurrence of civil conflict?
+- Why do some conflicts recur while others do not?
 - How do communities rebuild trust in the post-conflict period? 
-- What are the psycho-social barriers to persistent peace, and how can those barriers be overcome?
+- What are the psychosocial barriers to persistent peace, and how can policy makers address them?
 - How do we ethically and effectively conduct research within conflict and post-conflict contexts?
-- How can we make academia and academic writing more available and legible to non-academics?
+- How can we make academia more available and legible to non-academics?
 
-I am currently a dual-degree student at UCLA pursuing a MA/PhD in Political Science and a MSc in Statistics. I hold an MA in International Relations from the University of Chicago (2019) and a BA in International Relations and Arabic from Tufts University (2014). I have spent time in Nigeria (2022), Iraq (2014), Jordan (2013, 2012), Nicaragua (2013) and Israel/Palestine (2012). I have also researched a varity of additional contexts, including Mexico, Kashmir, and Mali.
+I am currently a doctoral student at UCLA pursuing a MA/PhD in Political Science and a MSc in Statistics. I hold an MA in International Relations from the University of Chicago (2019) and a BA in International Relations and Arabic from Tufts University (2014). I have spent time in Colombia (2024, 2023), Mexico (2023), Nigeria (2022), Iraq (2014), Jordan (2013, 2012), Nicaragua (2013) and Israel/Palestine (2012). I have also researched a varity of additional contexts, including Mexico, Kashmir, and Mali.
 
 ## Affiliations
 
