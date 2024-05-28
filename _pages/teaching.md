@@ -7,10 +7,13 @@ author_profile: true
 
 ## Current Courses
 
-Teaching Associate, UCLA:
-- PS200B: Regression Analysis for Social Science (Winter 2023)
+Associate Instructor, UCLA:
+- PS169: The Politics of Violent Conflict (Summer 2024)
 
 ## Previous Courses
+
+Teaching Associate, UCLA:
+- PS200B: Regression Analysis for Social Science (Winter 2023)
 
 Teaching Assistant, UCLA:
 - PS156A: Government and Politics of Russia (Fall 2022)
@@ -23,20 +26,9 @@ Teaching Assistant, UCLA:
 
 "Elayne was genuinely the best TA I have ever had. She was approachable, friendly, and exceptionally
 knowledgeable about the course material. I happened to really enjoy attending section all quarter long
-because she fostered critical thinking skills and familiarized her students with strategies to help make
-the content more digestible. In addition to her great explanations and simplifications of difficult concepts,
-one of Elayne's strengths is how well she fostered a collaborative learning environment. She
-encouraged us to work with our peers and diversify our knowledge of the material we were learning, all
-while allowing us to do so in an inclusive and even fun setting."
+because she fostered critical thinking skills and familiarized her students with strategies to help make the content more digestible. In addition to her great explanations and simplifications of difficult concepts, one of Elayne's strengths is how well she fostered a collaborative learning environment. She encouraged us to work with our peers and diversify our knowledge of the material we were learning, all while allowing us to do so in an inclusive and even fun setting."
 
-"Elayne is simply an incredible TA. On top of all else that she does, she dedicated her time to make sure
-we succeeded in the class. The structure of her discussion sections consisted of a combination of small
-group work and large group discussions. I felt this perfectly allowed everyone to feel comfortable
-speaking out to the whole class, and I felt like my understanding of the readings always expanded with
-discussion with my peers. Outside of this, she was always understanding of our workload and tried to
-help us as much as possible by giving us reading and studying techniques. In my opinion, she is also
-quite a funny and enjoyable person, she always made discussion section light despite it's late time in
-the day."
+"Elayne is simply an incredible TA. On top of all else that she does, she dedicated her time to make sure we succeeded in the class. The structure of her discussion sections consisted of a combination of small group work and large group discussions. I felt this perfectly allowed everyone to feel comfortable speaking out to the whole class, and I felt like my understanding of the readings always expanded with discussion with my peers. Outside of this, she was always understanding of our workload and tried to help us as much as possible by giving us reading and studying techniques. In my opinion, she is also quite a funny and enjoyable person, she always made discussion section light despite it's late time in the day."
 
 ### PS179
 
