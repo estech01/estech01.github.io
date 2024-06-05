@@ -12,8 +12,8 @@ main:
   - title: "Office Hours"
     url: /oh/
         
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "For Students"
+    url: /forstudents/
     
   - title: "CV"
     url: /cv/
