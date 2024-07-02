@@ -8,7 +8,7 @@ author_profile: true
 ## Resources I've Created
 
 - [Questions to guide your reading of an academic paper](/files/Academic_Reading_Strategies.pdf)
-
+- [IR Theory Cheat Sheet](/files/IR_Theory_Cheat_Sheet.pdf)
 
 ## Resources from Others
 
