@@ -5,12 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current Courses
+## Current/Upcoming Courses
 
 Associate Instructor, UCLA:
-- PS169: The Politics of Violent Conflict (Summer 2024)
+- I A STD 1: Introduction to International and Area Studies (Fall 2024)
 
 ## Previous Courses
+
+Associate Instructor, UCLA (Sole Instructor):
+- PS169: The Politics of Violent Conflict (Summer 2024)
 
 Teaching Associate, UCLA:
 - PS200B: Regression Analysis for Social Science (Winter 2023)
@@ -21,6 +24,25 @@ Teaching Assistant, UCLA:
 - PS129: War and Diplomacy (Fall 2021)
 
 ## Select Teaching Evaluation Feedback
+
+### PS169
+
+"Professor Stecher is an extraordinarily engaging lecturer. She manages to make class fun and makes
+me actually want to do the readings. I typically never do the readings and still get A's, but in this class I
+actually read just so I could discuss with her. She also tries really hard to not push her perspective/opinions on you...
+She encourages you to form your own opinions. Also, this class was not that easy but I still liked it. 
+Usually I hate hard classes but this was a rare instance where I enjoyed a somewhat difficult course. 
+I think what made the difficulty rewarding was that we got to have class discussion so often and she was always very personable."
+
+"I think for the natural challenges that come with teaching an online class, Elayne was able to work
+around them really well. She made sure that we facilitated productive and nuanced conversations in our
+breakout rooms. She kept class discussions going at a good pace. She made it very clear that if we
+were having any issues her email and office hours were available to us. She seemed to genuinely care
+about our ability to understand the content and valued our insight. I also appreciated that she allowed
+the class to disagree with each other. We discussed complex topics with often no right answer, so I liked
+that she emphasized that we could disagree respectfully with our classmates opinions and with her
+own."
+
 
 ### PS156A
 
