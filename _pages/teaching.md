@@ -12,8 +12,8 @@ Associate Instructor, UCLA:
 
 ## Previous Courses
 
-Associate Instructor, UCLA (Sole Instructor):
-- PS169: The Politics of Violent Conflict (Summer 2024)
+Associate Instructor, UCLA:
+- PS169: The Politics of Violent Conflict (Summer 2024, Sole instructor)
 
 Teaching Associate, UCLA:
 - PS200B: Regression Analysis for Social Science (Winter 2023)
