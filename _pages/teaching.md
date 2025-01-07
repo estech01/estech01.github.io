@@ -50,6 +50,10 @@ the class to disagree with each other. We discussed complex topics with often no
 that she emphasized that we could disagree respectfully with our classmates opinions and with her
 own."
 
+### PS200B
+
+"Your help was very useful and I learned a lot of side materials and knowledge that I wouldn't learn from
+main lecture. Also hybrid session and R markdown based learning was helpful."
 
 ### PS156A
 
