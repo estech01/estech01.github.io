@@ -8,11 +8,12 @@ author_profile: true
 ## Current/Upcoming Courses
 
 Associate Instructor, UCLA:
-- I A STD 1: Introduction to International and Area Studies (Fall 2024)
-
+- GLBL ST 102: Globalization: Markets and Resources (Winter 2025)
+  
 ## Previous Courses
 
 Associate Instructor, UCLA:
+- I A STD 1: Introduction to International and Area Studies (Fall 2024)
 - PS169: The Politics of Violent Conflict (Summer 2024, Sole instructor)
 
 Teaching Associate, UCLA:
@@ -24,6 +25,12 @@ Teaching Assistant, UCLA:
 - PS129: War and Diplomacy (Fall 2021)
 
 ## Select Teaching Evaluation Feedback
+
+### IASTD1
+
+"Overall, I found great value in these discussion sections and believe that it was a large aspect of success I had in the class. The TA was amazing at explaining the material, showing students different methods of looking at and understanding the material, integrated questions and key points thoroughly, and allowed me to understand the readings and examples more in depth. Assignments for participation were also greatly relevant to what was directly learned, and allowed me to prepare for exams and think about the material learned. TA also provided excellent review sections, notes, and discussion boards which allowed me to learn from my peers and have good discussions with them."
+
+"Overall, fantastic T.A. experience! She was extremely knowledgeable the entire time and actively led discussions among the students, while always having insightful comments to ensure that we had a proper learning experience. Moreover, she really highlighted that she cared about the students the entire time, always making sure that we were okay and that we were doing well in and out of the class."
 
 ### PS169
 
