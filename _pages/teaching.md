@@ -8,12 +8,13 @@ author_profile: true
 ## Current/Upcoming Courses
 
 Associate Instructor, UCLA:
-- GLBL ST 102: Globalization: Markets and Resources (Winter 2025)
+- GLBLST102: Globalization: Markets and Resources (Winter 2025)
+- PS50: Introduction to Comparative Politics (_upcoming_ Summer 2025, Sole instructor)
   
 ## Previous Courses
 
 Associate Instructor, UCLA:
-- I A STD 1: Introduction to International and Area Studies (Fall 2024)
+- IASTD 1: Introduction to International and Area Studies (Fall 2024)
 - PS169: The Politics of Violent Conflict (Summer 2024, Sole instructor)
 
 Teaching Associate, UCLA:
