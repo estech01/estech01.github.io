@@ -8,12 +8,12 @@ author_profile: true
 ## Current/Upcoming Courses
 
 Associate Instructor, UCLA:
-- GLBLST102: Globalization: Markets and Resources (Winter 2025)
 - PS50: Introduction to Comparative Politics (_upcoming_ Summer 2025, Sole instructor)
   
 ## Previous Courses
 
 Associate Instructor, UCLA:
+- GLBLST102: Globalization: Markets and Resources (Winter 2025)
 - IASTD 1: Introduction to International and Area Studies (Fall 2024)
 - PS169: The Politics of Violent Conflict (Summer 2024, Sole instructor)
 
@@ -26,6 +26,22 @@ Teaching Assistant, UCLA:
 - PS129: War and Diplomacy (Fall 2021)
 
 ## Select Teaching Evaluation Feedback
+
+### GLBLST102
+
+"I really loved learning with Elayne. Her humor and down–to–earth personality really helped me feel comfortable in this class,
+especially because the content was a little daunting to me throughout. Additionally, it really felt like Elayne connected with her
+students a lot more than the average TA, so I always felt comfortable asking for clarification and sharing out during class
+discussions. I also appreciated how she gauged our interest about certain activities she had planned for section and how she
+was willing to change the class plan to accommodate our preferences. Overall, Elayne is awesome, and I was very surprised
+to find out that this was her first time TA'ing for this course."
+
+"I feel like the TA knows a lot about all topics discussed and she explains everything in a way so that everyone understands.
+She makes her section very informative and engaging. People feel comfortable to speak in class and share their ideas. She
+also responds very quick to emails. I have nothing bad to say. Overall, a great TA."
+
+"Elayne is an amazing TA who put in so much extra effort to make the course material digestible. Not only is she
+knowledgeable, but she cares about how her students feel about the material and their mastery."
 
 ### IASTD1
 
