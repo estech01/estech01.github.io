@@ -9,13 +9,13 @@ I am interested in leveraging qualitative and quantitative methods to investigat
 
 ## Journal Articles
 
-1. *Criminal Governance in Latin America: An Assessment of its Prevalence and Correlates* with Andres D. Uribe, Benjamin Lessing, and Noah Schouela, , Perspectives on Politics (forthcoming).
+1. *Criminal Governance in Latin America: An Assessment of its Prevalence and Correlates* with Andres D. Uribe, Benjamin Lessing, and Noah Schouela, *Perspectives on Politics* (forthcoming).
 
 ## Working Papers
 
 1. *Removing Social Barriers to Women’s Candidacy in Cambodia* with C. Cruz and J. Kim
 
-## Work In Progress
+## Work in Progress
 
 1. Ethically Measuring Violence with G. Blair, L. Young, R. Littman and H. Baron 
 
