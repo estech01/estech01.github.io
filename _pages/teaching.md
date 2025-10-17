@@ -7,12 +7,13 @@ author_profile: true
 
 ## Current/Upcoming Courses
 
-Associate Instructor, UCLA:
-- PS50: Introduction to Comparative Politics (_upcoming_ Summer 2025, Sole instructor)
+Teaching Fellow, UCLA:
+- GLBLST102: Globalization: Markets and Resources (Fall 2025)
   
 ## Previous Courses
 
 Associate Instructor, UCLA:
+- PS50: Introduction to Comparative Politics (Summer 2025, Sole instructor)
 - GLBLST102: Globalization: Markets and Resources (Winter 2025)
 - IASTD 1: Introduction to International and Area Studies (Fall 2024)
 - PS169: The Politics of Violent Conflict (Summer 2024, Sole instructor)
