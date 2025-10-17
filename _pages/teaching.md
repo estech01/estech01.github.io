@@ -28,6 +28,18 @@ Teaching Assistant, UCLA:
 
 ## Select Teaching Evaluation Feedback
 
+### PS50
+
+"Ms. Stecher was an incredible instructor. Instructing is clearly something she cares deeply about and that is reflected through
+the quality of her teaching. As she herself pointed out, learning online is often more challenging than learning in a classroom,
+however Ms. Stecher was committed to student success. She frequently checked in with us to see how our understanding of
+course materials was developing and sometimes adapted her teaching based on student feedback. She is deeply
+knowledgable about comparative politics and speaks with a passion that helped me remain engaged. She is a very talented
+young professional."
+
+"Stecher is one of the best instructors I've had at UCLA. She communicates clearly, gives engaging presentations, has a good
+sense of humor, and she is very kind and respectful towards her students. Zero complaints."
+
 ### GLBLST102
 
 "I really loved learning with Elayne. Her humor and down–to–earth personality really helped me feel comfortable in this class,
