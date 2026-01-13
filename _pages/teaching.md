@@ -8,9 +8,12 @@ author_profile: true
 ## Current/Upcoming Courses
 
 Teaching Fellow, UCLA:
-- GLBLST102: Globalization: Markets and Resources (Fall 2025)
+- GH100: Global Health and Development (Winter 2026)
   
 ## Previous Courses
+
+Teaching Fellow, UCLA:
+- GLBLST102: Globalization: Markets and Resources (Fall 2025)
 
 Associate Instructor, UCLA:
 - PS50: Introduction to Comparative Politics (Summer 2025, Sole instructor)
@@ -28,30 +31,25 @@ Teaching Assistant, UCLA:
 
 ## Select Teaching Evaluation Feedback
 
+### GLBLST102 (F25)
+
+"I think she is clearly knowledgeable and brings a good energy to get students involved. I also like that she has us consider everything from multiple perspectives rather than immediately accept something as fact."
+
+"My T.A. was great at anticipating the obstacles or concerns we might have as students, about the course material but also with Perusall, projects, or academic requirements. She was very organized and prepared, made efforts towards cultivating a positive and light environment while being professional."
+
+"If I didn't understand lecture I always knew I would understand the material after sections, she's the best."
+
 ### PS50
 
-"Ms. Stecher was an incredible instructor. Instructing is clearly something she cares deeply about and that is reflected through
-the quality of her teaching. As she herself pointed out, learning online is often more challenging than learning in a classroom,
-however Ms. Stecher was committed to student success. She frequently checked in with us to see how our understanding of
-course materials was developing and sometimes adapted her teaching based on student feedback. She is deeply
-knowledgable about comparative politics and speaks with a passion that helped me remain engaged. She is a very talented
-young professional."
+"Ms. Stecher was an incredible instructor. Instructing is clearly something she cares deeply about and that is reflected through the quality of her teaching. As she herself pointed out, learning online is often more challenging than learning in a classroom, however Ms. Stecher was committed to student success. She frequently checked in with us to see how our understanding of course materials was developing and sometimes adapted her teaching based on student feedback. She is deeply knowledgable about comparative politics and speaks with a passion that helped me remain engaged. She is a very talented young professional."
 
-"Stecher is one of the best instructors I've had at UCLA. She communicates clearly, gives engaging presentations, has a good
-sense of humor, and she is very kind and respectful towards her students. Zero complaints."
+"Stecher is one of the best instructors I've had at UCLA. She communicates clearly, gives engaging presentations, has a good sense of humor, and she is very kind and respectful towards her students. Zero complaints."
 
-### GLBLST102
+### GLBLST102 (W24)
 
-"I really loved learning with Elayne. Her humor and down–to–earth personality really helped me feel comfortable in this class,
-especially because the content was a little daunting to me throughout. Additionally, it really felt like Elayne connected with her
-students a lot more than the average TA, so I always felt comfortable asking for clarification and sharing out during class
-discussions. I also appreciated how she gauged our interest about certain activities she had planned for section and how she
-was willing to change the class plan to accommodate our preferences. Overall, Elayne is awesome, and I was very surprised
-to find out that this was her first time TA'ing for this course."
+"I really loved learning with Elayne. Her humor and down–to–earth personality really helped me feel comfortable in this class, especially because the content was a little daunting to me throughout. Additionally, it really felt like Elayne connected with her students a lot more than the average TA, so I always felt comfortable asking for clarification and sharing out during class discussions. I also appreciated how she gauged our interest about certain activities she had planned for section and how she was willing to change the class plan to accommodate our preferences. Overall, Elayne is awesome, and I was very surprised to find out that this was her first time TA'ing for this course."
 
-"I feel like the TA knows a lot about all topics discussed and she explains everything in a way so that everyone understands.
-She makes her section very informative and engaging. People feel comfortable to speak in class and share their ideas. She
-also responds very quick to emails. I have nothing bad to say. Overall, a great TA."
+"I feel like the TA knows a lot about all topics discussed and she explains everything in a way so that everyone understands. She makes her section very informative and engaging. People feel comfortable to speak in class and share their ideas. She also responds very quick to emails. I have nothing bad to say. Overall, a great TA."
 
 "Elayne is an amazing TA who put in so much extra effort to make the course material digestible. Not only is she
 knowledgeable, but she cares about how her students feel about the material and their mastery."
@@ -66,8 +64,7 @@ knowledgeable, but she cares about how her students feel about the material and 
 
 "Professor Stecher is an extraordinarily engaging lecturer. She manages to make class fun and makes
 me actually want to do the readings. I typically never do the readings and still get A's, but in this class I
-actually read just so I could discuss with her. She also tries really hard to not push her perspective/opinions on you...
-She encourages you to form your own opinions. Also, this class was not that easy but I still liked it. 
+actually read just so I could discuss with her. She also tries really hard to not push her perspective/opinions on you... She encourages you to form your own opinions. Also, this class was not that easy but I still liked it. 
 Usually I hate hard classes but this was a rare instance where I enjoyed a somewhat difficult course. 
 I think what made the difficulty rewarding was that we got to have class discussion so often and she was always very personable."
 
@@ -95,13 +92,7 @@ because she fostered critical thinking skills and familiarized her students with
 
 ### PS179
 
-"She was very good at explaining code and breaking it down and made it very understandable. Walking into this class, 
-I was very intimidated, as I had never coded in my life before. R studio was entirely new to me, and I was very nervous to take this class. 
-After the first discussion, I was a lot more confident because she explained everything so well and was very
-patient when we did not understand something. She was willing to explain code until it was clear and if
-we did not understand, we always knew she was available for office hours. Elayne was very
-approachable and I felt very comfortable asking her for help because even when I was really confused,
-she never made it seem that being confused was a bad thing." 
+"She was very good at explaining code and breaking it down and made it very understandable. Walking into this class, I was very intimidated, as I had never coded in my life before. R studio was entirely new to me, and I was very nervous to take this class.  After the first discussion, I was a lot more confident because she explained everything so well and was very patient when we did not understand something. She was willing to explain code until it was clear and if we did not understand, we always knew she was available for office hours. Elayne was very approachable and I felt very comfortable asking her for help because even when I was really confused, she never made it seem that being confused was a bad thing." 
 
 "Stecher was an incredible guide in helping my classmates and I formulate our experiment proposal! She
 provided useful feedback while supporting our collective creation. I would say that would be one of her
