@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Landing Page"
+permalink: 
+author_profile: true
+---
+
 # Causal Inference • Experiments • Conflict & Behavior
 
 I study how exposure to violence causally affects behavior, decision-making, and political attitudes, and how these effects vary across individuals and contexts. I focus on:
