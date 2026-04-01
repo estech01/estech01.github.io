@@ -1,8 +1,11 @@
 ---
-layout: archive
-title: "Landing Page"
-permalink: 
+permalink: /
+title: ""
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # Causal Inference • Experiments • Conflict & Behavior
