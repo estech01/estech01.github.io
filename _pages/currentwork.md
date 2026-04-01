@@ -5,8 +5,6 @@ permalink: /currentwork/
 author_profile: true
 ---
 
-## Current Work
-
 I study how exposure to violence shapes behavior, decision-making, and political attitudes, with a focus on heterogeneous effects across individuals and contexts. My work combines experiments, quasi-experimental designs, and observational data to identify when and why violence influences downstream outcomes.
 
 I am particularly interested in:
