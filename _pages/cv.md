@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here](/files/Stecher_CV_June2024.pdf). Last updated: June 2024. 
-
-Download my resume here. Last updated: April 2026.
+Download my résumé [here](/files/Stecher_Resume_April2026.pdf). Last updated: April 2026.
