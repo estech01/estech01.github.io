@@ -18,7 +18,7 @@ I am particularly interested in:
 with A. D. Uribe, B. Lessing, and N. Schouela  
 *Perspectives on Politics*  
 
-Estimates the prevalence of criminal governance across Latin America using survey data and MRP, and identifies key correlates of exposure.
+Estimates the prevalence of criminal governance across Latin America using survey data and MRP and advances a new, counterintuitive theory of strong state presence corresponding with greater criminal governance.
 
 
 ## Working Papers
@@ -31,7 +31,7 @@ Field experiment testing whether information interventions increase women’s po
 ## Work in Progress
 
 **Ethically Measuring Violence**  
-with G. Blair, L. Young, R. Littman, and H. Baron  
+with G. Blair, L. Young, R. Littman, H. Baron et al. 
 
 Multi-country experimental project evaluating the effects of asking about violence on respondents.
 
