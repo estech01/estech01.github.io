@@ -7,19 +7,19 @@ author_profile: true
 
 ## Current/Upcoming Courses
 
-Teaching Fellow, UCLA:
-- GH100: Global Health and Development (Winter 2026)
-  
+- PS50: Introduction to Comparative Politics (Summer 2026, Instructor)
+
 ## Previous Courses
 
 Teaching Fellow, UCLA:
+- GH100: Global Health and Development (Winter 2026)
 - GLBLST102: Globalization: Markets and Resources (Fall 2025)
 
 Associate Instructor, UCLA:
-- PS50: Introduction to Comparative Politics (Summer 2025, Sole instructor)
+- PS50: Introduction to Comparative Politics (Summer 2025, Instructor)
 - GLBLST102: Globalization: Markets and Resources (Winter 2025)
 - IASTD 1: Introduction to International and Area Studies (Fall 2024)
-- PS169: The Politics of Violent Conflict (Summer 2024, Sole instructor)
+- PS169: The Politics of Violent Conflict (Summer 2024, Instructor)
 
 Teaching Associate, UCLA:
 - PS200B: Regression Analysis for Social Science (Winter 2023)
