@@ -31,6 +31,25 @@ Teaching Assistant, UCLA:
 
 ## Select Teaching Evaluation Feedback
 
+### GH100 (W26)
+
+"Elayne did a great job of explaining course concepts that the class was having difficulty with. I felt that I could always go to Elayne with
+questions and she was very dedicated about student learning and wanted us to succeed in the course. One thing I appreciated about
+Elayne's section is that if one definition/explanation of a concept was hard to grasp at first she was more than happy to explain it in
+different ways until the overall class understanding was high."
+
+"One of the strengths of E.R. Stecher was how she always encouraged students to think about complex concepts rather than simply
+memorizing content. In discussion sections, she created space for multiple perspectives to help clarify the theoretical frameworks,
+especially when navigating dense readings. Another strength is her openness to questions and willingness to provide clarification.
+When the students seemed confused, she responded patiently and worked through the concept rather than dismissing the concern."
+
+"Elayne goes above and beyond as a TA. Her slides summarizing the week's content are comprehensive without being overwhelming.
+You can easily tell that she wanted to make this course as enjoyable and informative as possible. She is so supportive with student
+responses that most of us participated without having to be coaxed. I loved her check–ins prior to starting section because it removed
+that awkwardness that sometimes happens at the beginning of a class you only have once a week. Elayne also has a lot of humility even
+with all her knowledge and experience in the field. It is truly refreshing to be in a class where the TA is not only instructive but also
+willing to learn and consider new student perspectives."
+
 ### GLBLST102 (F25)
 
 "I think she is clearly knowledgeable and brings a good energy to get students involved. I also like that she has us consider everything from multiple perspectives rather than immediately accept something as fact."
