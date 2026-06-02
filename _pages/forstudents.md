@@ -13,3 +13,4 @@ author_profile: true
 ## Resources from Others
 
 - Chris Blattman on [applying for a PhD](https://chrisblattman.com/blog/2022/03/25/faqs-on-phd-applications/)
+- Interview panel I participated in on [considering grad school](https://www.youtube.com/watch?v=37ZdAtg7964) 
