@@ -32,8 +32,6 @@ To study these questions, I use:
 
 ## Affiliations
 
-Research Fellow at the [UCLA Preventing Violence Lab](https://preventingviolencelab.org/)
-
 Graduate Student Member of the [Politics of Order and Development Lab](https://pod.polisci.ucla.edu/)
 
 Student Affiliate at the [California Center for Population Research](https://www.ccpr.ucla.edu/)
