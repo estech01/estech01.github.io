@@ -33,7 +33,7 @@ Field experiment testing whether information interventions increase women’s po
 **Ethically Measuring Violence**  
 with G. Blair, L. Young, R. Littman, H. Baron et al. 
 
-Multi-country experimental project evaluating the effects of asking about violence on respondents.
+Multi-country experimental project evaluating the effects of asking about violence on respondents. Lauren Young and I [discussed](https://www.youtube.com/watch?v=y6HFmtLXhlg) some of the motivations for this project and intitial findings at CEGA's 2022 Evidence to Action (E2A) symposium.
 
 
 **Exposure to Terrorism and Support for Counterterrorism in Kenya**  
