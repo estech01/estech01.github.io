@@ -10,9 +10,12 @@ redirect_from:
 
 # Causal Inference • Experiments • Conflict & Behavior
 
+I earned my MS in Statistics from UCLA in 2026. I expect to finish my PhD in Political Science in 2027.
+
 I study how exposure to violence causally affects behavior, decision-making, and political attitudes, and how these effects vary across individuals and contexts. I focus on:
 
 - Why some civil conflicts recur while others do not
+- Whether exposure to violence affects support for democracy
 - How communities rebuild trust after violence 
 - Barriers to durable peace
 - Ethical and effective research in conflict settings
@@ -35,3 +38,5 @@ To study these questions, I use:
 Graduate Student Member of the [Politics of Order and Development Lab](https://pod.polisci.ucla.edu/)
 
 Student Affiliate at the [California Center for Population Research](https://www.ccpr.ucla.edu/)
+
+Member of the [Edward A. Bouchet Graduate Student Honors Society](https://en.wikipedia.org/wiki/Bouchet_Graduate_Honor_Society)
