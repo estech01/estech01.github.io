@@ -10,7 +10,7 @@ redirect_from:
 
 # Causal Inference • Experiments • Conflict & Behavior
 
-I earned my MS in Statistics from UCLA in 2026. I expect to finish my PhD in Political Science in 2027.
+I earned my MS in Statistics from UCLA in 2026. I expect to finish my PhD in Political Science during AY2026-27.
 
 I study how exposure to violence causally affects behavior, decision-making, and political attitudes, and how these effects vary across individuals and contexts. I focus on:
 
@@ -34,8 +34,6 @@ To study these questions, I use:
 
 
 ## Affiliations
-
-Graduate Student Member of the [Politics of Order and Development Lab](https://pod.polisci.ucla.edu/)
 
 Student Affiliate at the [California Center for Population Research](https://www.ccpr.ucla.edu/)
 
